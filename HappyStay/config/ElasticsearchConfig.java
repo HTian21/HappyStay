@@ -1,4 +1,4 @@
-package com.laioffer.HappyStay.config;
+package com.laioffer.happystay.config;
 
 import org.elasticsearch.client.RestHighLevelClient;
 import org.springframework.beans.factory.annotation.Value;
