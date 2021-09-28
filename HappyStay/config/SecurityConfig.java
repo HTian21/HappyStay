@@ -1,6 +1,6 @@
-package com.laioffer.HappyStay.config;
+package com.laioffer.happystay.config;
 
-import com.laioffer.staybooking.filter.JwtFilter;
+import com.laioffer.happystay.filter.JwtFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.http.HttpMethod;
